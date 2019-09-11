@@ -1,5 +1,5 @@
 Demo:<br />
-![Demo](png/git-fo-dummy.png)<br />
+![Demo](git-for-dummy.png)<br />
 
 Helpful link to start git: <br />
 https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Getting-and-Creating-Projects
