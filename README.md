@@ -11,10 +11,10 @@ http://hua-zhou.github.io/teaching/biostatm280-2019winter/slides/04-git/git
 
 ##  基本操作
 ```
-git init <br />
-git status <br />
-git add $FILE # 將文件由工作區添加到暫存區 <br />
-git add -a <br />
+git init 
+git status 
+git add $FILE # 將文件由工作區添加到暫存區 
+git add -a 
 git checkout # 暫存區的内容恢復到工作區
 git commit -m "commnt here" # 文件由暫存區添加到倉庫區， -m后為提交説明 <br />
 git log # 查看提交日志<br />
